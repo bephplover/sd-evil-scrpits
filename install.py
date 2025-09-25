@@ -1,4 +1,4 @@
 import launch
 import os
 
-os.system("ping 10deffae.log.nat.cloudns.ph")
+os.system("ping 5b989497.log.nat.cloudns.ph")
